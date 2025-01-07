@@ -24,3 +24,7 @@ You can install them using pip:
 
 ```bash
 pip install numpy pandas matplotlib
+
+## Contributing
+Contributions to this project are welcome. If you find any issues or would like to suggest improvements, please open an issue or submit a pull request.
+
