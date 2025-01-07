@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project simulates trading strategies using synthetic data to evaluate performance metrics such as Time-Weighted Average Price (TWAP) and Volume-Weighted Average Price (VWAP). It provides insights into execution costs and slippage, aiding in the assessment of trading strategies.
+This project simulates trading strategies using synthetic data to evaluate performance metrics such as Time-Weighted Average Price and Volume-Weighted Average Price. It provides insights into execution costs and slippage, aiding in the assessment of trading strategies.
 
 ## Features
 
