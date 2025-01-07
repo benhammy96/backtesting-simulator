@@ -25,6 +25,8 @@ You can install them using pip:
 ```bash
 pip install numpy pandas matplotlib
 ```
+## Output with Synthetic Data:
+(backtesting_visulized.jpg)
 
 ## Contributing
 We welcome contributions to enhance the functionality and performance of this backtesting simulator.
